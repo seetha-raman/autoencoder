@@ -1,6 +1,6 @@
 # Autoencoder - Models for Denoising, Compressing and Upsampling
 
-This are CNN Autoencoder implementation of Denosiing, Compressing and Upsampling MNIST dataset 
+These models are CNN Autoencoder implementation of Denosiing, Compressing and Upsampling MNIST dataset 
 
 Below are some samples of Autoecoder Result:
 
@@ -10,7 +10,7 @@ Below are some samples of Autoecoder Result:
 2. Upsampling
 <img src="upsampling-result.png">
 
-3. Compressing and Decompression
+3. Compression and Decompression
 <img src="compression-decompression-result.png">
 
 There are 3 main parts of this model:
